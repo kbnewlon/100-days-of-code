@@ -1,30 +1,31 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 0: January 1, 2021 Friday
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Started the shopify developer internship challenge. Created a react app, using material-ui. Hoping to incorporate Fuse React for search functionality.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Im feeling pretty nervous about coding. Its been a little over a month since graduation and I am looking forward to get back into learning. Im happy about the structure of 100 days of coding. Let's go!
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link(s) to work:** [Shopify Developer Internship Challenge Repo](https://github.com/kbnewlon/shopify-developer-intern-challenge)
+<br>
+[Challenge Instructions Google Doc](https://docs.google.com/document/d/1ZKRywXQLZWOqVOHC4JkF3LqdpO3Llpfk_CkZPR8bjak/edit)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Quote of the day:** "The brain is like a muscle. When it is in use we feel very good. Understanding is joyous" -Carl Sagan
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 1: January 2, 2020 Saturday
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
 
 
-### Day 1: June 27, Monday
+### Day 2: January 3, 2020 Sunday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
