@@ -26,15 +26,16 @@
 
 ### Day 2: January 3, 2020 Sunday
 
-**Today's Progress**: 
+**Today's Progress**: Worked for a couple hours today. It's nice getting back into the groove of things. Today I learned more about Polaris and am fighting with my React App to pull in what it needs. Computer froze for two hours. So it goes. 
 
-**Thoughts** 
+**Thoughts** Learning more about Polaris. Its like a basket that I am trying to unweave. In order to get a search bar you have to have a frame, in order to have a frame you have to have a model. What is this sorcery? 
 
-**Successes**
+**Successes** Figured how to pull in different components. Polaris needs some help to streamline this. Pick me!
 
-**Link(s) to work**
+**Quote of the day:** "Its kind of fun to do the impossible" -Walt Disney
 
-### Day 2: January 3, 2020 Sunday
+
+### Day 3: January 4, 2020 Monday
 
 **Today's Progress**: 
 
