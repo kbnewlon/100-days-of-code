@@ -73,3 +73,23 @@
 **Successes**
 
 **Link(s) to work**
+
+### Day 7: January 8, 2020 Thursday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Successes**
+
+**Link(s) to work**
+
+### Day 8: January 9, 2020 Thursday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Successes**
+
+**Link(s) to work**
