@@ -37,25 +37,14 @@
 
 ### Day 3: January 4, 2020 Monday
 
-**Today's Progress**: 
+**Today's Progress** Kept running into a "out of memory" error when I tried running my polaris react app. Added "@babel/core": "^7.7.7" to my devDependencies in my package.json to get around the error. I worked with CSS to begin manipulating the page, a good foundation. I read into what Shopify expects in a challenge like this and I have settled on "Reasons why I want to work at Shopify." My plan is to pull in a API from a Canadian Image source. I'm thinking Shopify will enjoy the humor. 
 
-**Thoughts** 
+**Thoughts** Now that I finally have a grasp of the direction I want to take this challenge I am looking forward to learning more about APIs tomorrow. Today set me up for success for my next plan of attack. 
 
-**Successes**
+**Successes** Today I was successful in debugging the 'out of memory' error. I also began working with css and importing homemade components.  
 
-**Link(s) to work**
 
-### Day 2: January 3, 2020 Sunday
-
-**Today's Progress**: 
-
-**Thoughts** 
-
-**Successes**
-
-**Link(s) to work**
-
-### Day 2: January 3, 2020 Sunday
+### Day 4: January 5, 2020 Tuesday
 
 **Today's Progress**: 
 
@@ -65,7 +54,17 @@
 
 **Link(s) to work**
 
-### Day 2: January 3, 2020 Sunday
+### Day 5: January 6, 2020 Wednesday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Successes**
+
+**Link(s) to work**
+
+### Day 6: January 7, 2020 Thursday
 
 **Today's Progress**: 
 
