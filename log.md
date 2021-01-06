@@ -46,13 +46,10 @@
 
 ### Day 4: January 5, 2020 Tuesday
 
-**Today's Progress**: 
+**Today's Progress** API work today. Started my API.js. Finding a good API was the hardest past of today. I bet a lot of people will be using the placekitten or puppy APIs. My intention is to do something that sets me apart. I signed up as a developer with unsplash but they want two weeks to review my need for a API key. Onto the next thing. Maybe dogs are where its at. 
 
-**Thoughts** 
+**Successes** I was successful in getting my app ready for the unsplash API only to find out that it takes them two weeks to review. So Ill have to switch gears tomorrow with my API.js to work with the damn dog API. 
 
-**Successes**
-
-**Link(s) to work**
 
 ### Day 5: January 6, 2020 Wednesday
 
