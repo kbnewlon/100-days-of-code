@@ -53,23 +53,16 @@
 
 ### Day 5: January 6, 2020 Wednesday
 
-**Today's Progress**: 
-
-**Thoughts** 
-
-**Successes**
-
-**Link(s) to work**
+**Today's Progress** Took today off. Today Trump supporters stormed the Capitol. Im speechless. 
 
 ### Day 6: January 7, 2020 Thursday
 
-**Today's Progress**: 
+**Today's Progress** Made great strides today. Figured out how to upload an image to cloudinary using react. 
 
-**Thoughts** 
+**Thoughts** I asked the right questions today which makes all the difference. Worked for three hours today. It felt good getting obsessed again. Also I got the TA job today! Yay!
 
-**Successes**
+**Successes** Linked my react app to cloudinary for successful uploading. 
 
-**Link(s) to work**
 
 ### Day 7: January 8, 2020 Thursday
 
