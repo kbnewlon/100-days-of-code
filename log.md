@@ -66,13 +66,13 @@
 
 ### Day 7: January 8, 2020 Thursday
 
-**Today's Progress**: 
+**Today's Progress** Banging my head against my computer today. Spent three hours trying to figure out how to map through all my cloudinary images uploaded through my app. I cant figure it out!
 
-**Thoughts** 
+**Thoughts** There isn't good documentation on functional components and cloudinary. Trying really hard not to delete everything and start over using class components. Ive tried cloudinary-react, fetch, axios, 
 
-**Successes**
+**Successes** Nope. Nope. Nope. Spent nine hours today and made very little actual progress. Learned a lot about react and cloudinary. 
 
-**Link(s) to work**
+
 
 ### Day 8: January 9, 2020 Thursday
 
