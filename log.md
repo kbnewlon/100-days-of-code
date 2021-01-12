@@ -85,13 +85,9 @@
 
 ### Day 10: January 11, 2020 Saturday
 
-**Today's Progress** 
+**Today's Progress** I BROKE IT! Spent the day trouble shooting what the issue is. I still dont know. 
 
-**Thoughts** 
-
-**Successes**
-
-**Link(s) to work**
+**Thoughts** Banging my head against the table. I dont know what to do. 
 
 
 ### Day 11: January 12, 2020 Sunday
