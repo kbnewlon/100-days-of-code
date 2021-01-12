@@ -98,18 +98,14 @@
 
 ### Day 12: January 13, 2020 Monday
 
-**Today's Progress**: 
+**Today's Progress** Deleted the package-lock and node modules again today. Still no dice. This is insanity at its finest. I don't know what it needs. And it take 30 minutes every time I delete them. Its time for a new computer. 
 
-**Thoughts** 
-
-**Successes**
-
-**Link(s) to work**
+**Thoughts** Coding is frustrating. I know what Im doing here. And its just not responding properly. 
 
 
-### Day 13: January 14, 2020 Thursday
+### Day 13: January 14, 2020 Tuesday
 
-**Today's Progress**: 
+**Today's Progress** Today I was supposed to attend the Shopify Internship Webinar. But I never got the access code. Great start to my morning. I deleted the package lock and node modules one last time! And now its running. Couldn't tell ya what was different this time other than my emotional chaos today. 
 
 **Thoughts** 
 
