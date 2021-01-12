@@ -74,7 +74,49 @@
 
 
 
-### Day 8: January 9, 2020 Thursday
+### Day 9: January 10, 2020 Friday
+
+**Today's Progress** Began everything from scratch. Apparently I need to access a database in order to pull the images from cloudinary. Again, not happy about that documentation. Spent most of today trying to incorporate a webpack. Very unsuccessful I might add. 
+
+**Thoughts** Annoyed to start over. Ive spent a lot of time on what I do have but I cant figure out how to incorporate routes with what I have. 
+
+**Successes** Successfully recognized that I have no idea what Im doing and am super frustrated. 
+
+
+### Day 10: January 11, 2020 Saturday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+**Link(s) to work**
+
+
+### Day 11: January 12, 2020 Sunday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Successes**
+
+**Link(s) to work**
+
+
+### Day 12: January 13, 2020 Monday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Successes**
+
+**Link(s) to work**
+
+
+### Day 13: January 14, 2020 Thursday
 
 **Today's Progress**: 
 
