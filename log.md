@@ -92,13 +92,8 @@
 
 ### Day 11: January 12, 2020 Sunday
 
-**Today's Progress**: 
+**Today's Progress** Ive deleted the package-lock and node modules twice today. It takes my computer over 30 minutes to complete this. Im beyond frustrated. Even after deleting and reinstalling it wont run. Error: Cannot find webpack module. EVEN THOUGH I TOLD IT TO DOWNLOAD IN THE DEVDEPENDENCIES! 
 
-**Thoughts** 
-
-**Successes**
-
-**Link(s) to work**
 
 
 ### Day 12: January 13, 2020 Monday
