@@ -55,6 +55,7 @@
 
 **Today's Progress** Took today off. Today Trump supporters stormed the Capitol. Im speechless. 
 
+
 ### Day 6: January 7, 2020 Thursday
 
 **Today's Progress** Made great strides today. Figured out how to upload an image to cloudinary using react. 
@@ -64,7 +65,7 @@
 **Successes** Linked my react app to cloudinary for successful uploading. 
 
 
-### Day 7: January 8, 2020 Thursday
+### Day 7: January 8, 2020 Friday
 
 **Today's Progress** Banging my head against my computer today. Spent three hours trying to figure out how to map through all my cloudinary images uploaded through my app. I cant figure it out!
 
@@ -74,7 +75,7 @@
 
 
 
-### Day 9: January 10, 2020 Friday
+### Day 8: January 9, 2020 Saturday
 
 **Today's Progress** Began everything from scratch. Apparently I need to access a database in order to pull the images from cloudinary. Again, not happy about that documentation. Spent most of today trying to incorporate a webpack. Very unsuccessful I might add. 
 
@@ -83,32 +84,67 @@
 **Successes** Successfully recognized that I have no idea what Im doing and am super frustrated. 
 
 
-### Day 10: January 11, 2020 Saturday
+### Day 9: January 10, 2020 Sunday
 
 **Today's Progress** I BROKE IT! Spent the day trouble shooting what the issue is. I still dont know. 
 
 **Thoughts** Banging my head against the table. I dont know what to do. 
 
 
-### Day 11: January 12, 2020 Sunday
+### Day 10: January 11, 2020 Monday
 
 **Today's Progress** Ive deleted the package-lock and node modules twice today. It takes my computer over 30 minutes to complete this. Im beyond frustrated. Even after deleting and reinstalling it wont run. Error: Cannot find webpack module. EVEN THOUGH I TOLD IT TO DOWNLOAD IN THE DEVDEPENDENCIES! 
 
 
 
-### Day 12: January 13, 2020 Monday
-
-**Today's Progress** Deleted the package-lock and node modules again today. Still no dice. This is insanity at its finest. I don't know what it needs. And it take 30 minutes every time I delete them. Its time for a new computer. 
-
-**Thoughts** Coding is frustrating. I know what Im doing here. And its just not responding properly. 
-
-
-### Day 13: January 14, 2020 Tuesday
+### Day 11: January 12, 2020 Tuesday
 
 **Today's Progress** Today I was supposed to attend the Shopify Internship Webinar. But I never got the access code. Great start to my morning. I deleted the package lock and node modules one last time! And now its running. Couldn't tell ya what was different this time other than my emotional chaos today. 
 
+**Thoughts** Coding is frustrating. I know what Im doing here. And its just not responding properly.  Why is adding a webpack causing so much trouble?
+
+**Successes** Got my second job offer today from UW! Feeling good about it. Was able to add the webpack and get it running. Phew. That took forever! Now onto build this app!
+
+### Day 12: January 13, 2020 Wednesday
+**Today's Progress**  
+
+**Thoughts**
+
+**Successes** 
+
+
+### Day 13: January 14, 2020 Thursday
+
+**Today's Progress** 
+
 **Thoughts** 
 
-**Successes**
+**Successes**  
 
-**Link(s) to work**
+
+### Day 15: January 16, 2020 Friday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes** 
+
+
+### Day 14: January 15, 2020 Wednesday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes** 
+
+
+### Day 14: January 15, 2020 Wednesday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes** 
+
