@@ -101,11 +101,15 @@
 
 **Today's Progress** Today I was supposed to attend the Shopify Internship Webinar. But I never got the access code. Great start to my morning. I deleted the package lock and node modules one last time! And now its running. Couldn't tell ya what was different this time other than my emotional chaos today. 
 
-**Thoughts** Coding is frustrating. I know what Im doing here. And its just not responding properly.  Why is adding a webpack causing so much trouble?
+**Thoughts** Coding is frustrating. I know what Im doing here. And its just not responding properly.  Why is adding a webpack causing so much trouble? Cant get the cloudinary openUploadWidget to work. Spending the rest of today researching that. Ive spent 6 hours 'coding' today. 
 
 **Successes** Got my second job offer today from UW! Feeling good about it. Was able to add the webpack and get it running. Phew. That took forever! Now onto build this app!
 
+8 hours later. I fixed it! App is up and running. Styling tomorrow and lets be done already!
+
+
 ### Day 12: January 13, 2020 Wednesday
+
 **Today's Progress**  
 
 **Thoughts**
@@ -122,7 +126,7 @@
 **Successes**  
 
 
-### Day 15: January 16, 2020 Friday
+### Day 14: January 15, 2020 Friday
 
 **Today's Progress** 
 
@@ -131,7 +135,7 @@
 **Successes** 
 
 
-### Day 14: January 15, 2020 Wednesday
+### Day 15: January 16, 2020 Saturday
 
 **Today's Progress** 
 
@@ -140,9 +144,9 @@
 **Successes** 
 
 
-### Day 14: January 15, 2020 Wednesday
+### Day 16: January 17, 2020 Sunday
 
-**Today's Progress** 
+**Today's Progress** SHOPIFY APPLICATION DUE
 
 **Thoughts** 
 
