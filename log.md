@@ -121,11 +121,10 @@
 
 ### Day 14: January 15, 2020 Friday
 
-**Today's Progress** 
+**Today's Progress** Added polaris components today. Page, TopBar, FooterHelp, and Link. 
 
-**Thoughts** 
+**Thoughts** I'll be done and deployed tomorrow. Looking forward to learning something new. 
 
-**Successes** 
 
 
 ### Day 15: January 16, 2020 Saturday
