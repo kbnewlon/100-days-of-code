@@ -110,20 +110,13 @@
 
 ### Day 12: January 13, 2020 Wednesday
 
-**Today's Progress**  
+**Today's Progress** Started using CSS to manipulate the page. This is always the hardest part for me. I don't know what kinds of things look good, I dont really have an eye for it. So here goes nothing. 
 
-**Thoughts**
-
-**Successes** 
-
+**Thoughts** I hate CSS
 
 ### Day 13: January 14, 2020 Thursday
 
-**Today's Progress** 
-
-**Thoughts** 
-
-**Successes**  
+**Today's Progress** ER today. Took the day off due to memory loss. 
 
 
 ### Day 14: January 15, 2020 Friday
