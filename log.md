@@ -114,6 +114,7 @@
 
 **Thoughts** I hate CSS
 
+
 ### Day 13: January 14, 2020 Thursday
 
 **Today's Progress** ER today. Took the day off due to memory loss. 
@@ -147,11 +148,13 @@ I found a stackoverflow that said to take out the http all together and just use
 ### Day 16: January 17, 2020 Sunday
 
 **Today's Progress** SHOPIFY APPLICATION DUE
+Things to look at: when the widget is opened you have to upload an image. You cant click the 'X' to close it. It is looking for a response. 
 
-**Thoughts** 
+Done, deployed. https://shopify-internship-challenge.herokuapp.com/
+**Thoughts** Add comments, Add logo and quirky repo name. Decided on "2020 It Wasn't All Bad"
 
 **Successes** 
-
+White nav, shopify logo upper left hand corner. Add favicon. Footer, bottom right. 
 
 ### Day 17: January 18, 2020 Monday
 
