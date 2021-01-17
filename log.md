@@ -129,6 +129,32 @@
 
 ### Day 15: January 16, 2020 Saturday
 
+**Today's Progress** Deployed to github. I had forgotten that github cant display outside the root folder. Need to deploy via heroku. Running into issues with deploying to heroku. "Invalid: lock file's react-scripts@4.0.1 does not satisfy react-scripts@0.9.5" Downloading react-scripts@0.9.5 into dependencies to see if that will fix it. <--DONT DO THAT, BROKE IT! I reset the HEAD and am trying to figure out what Heroku needs. Deleted package-lock and reinstalled dependencies to get the app to run again. Still not having luck deploying. I added the mars/create and nodejs buildpacks, deleted the package-lock and reinstalled only to find that the steps I took earlier dug me deeper in a hole. I removed the react-scripts@0.9.5 and reinstalled everything and got it to run again. 
+
+My next task was to use postman to figure out why my axios request wasn't pulling any data. After four hours I figured it out. I was using https instead of http. 
+
+Then I began using css to manipulate the images now that they were rendering. 
+
+When I deployed the changes I got this error "xhr.js:177 Mixed Content: The page at 'https://shopify-internship-challenge.herokuapp.com/' was loaded over HTTPS, but requested an insecure XMLHttpRequest endpoint 'http://res.cloudinary.com/kaylanewlon/image/list/ShopifyInternshipChallenge.json'. This request has been blocked; the content must be served over HTTPS."  So back to square one. Heroku needs the 's'. 
+
+I found a stackoverflow that said to take out the http all together and just use //'url'. Trying that now. Yup! That works! I have a deployed app and functioning app! 
+
+**Thoughts** Spent 8 hours coding today. I feel super accomplished. 
+
+**Successes** Figured out why my axios wasn't returning data, fixed the error. Deployed to heroku. Began using css on what the axios request is rendering. Very successful day debugging and correcting errors. 
+
+
+### Day 16: January 17, 2020 Sunday
+
+**Today's Progress** SHOPIFY APPLICATION DUE
+
+**Thoughts** 
+
+**Successes** 
+
+
+### Day 17: January 18, 2020 Monday
+
 **Today's Progress** 
 
 **Thoughts** 
@@ -136,9 +162,36 @@
 **Successes** 
 
 
-### Day 16: January 17, 2020 Sunday
+### Day 18: January 19, 2020 Tuesday
 
-**Today's Progress** SHOPIFY APPLICATION DUE
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes** 
+
+
+### Day 19: January 20, 2020 Wednesday 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes** 
+
+
+### Day 20: January 21, 2020 Thursday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes** 
+
+
+### Day 21: January 22, 2020 Friday
+
+**Today's Progress** 
 
 **Thoughts** 
 
