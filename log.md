@@ -158,11 +158,10 @@ White nav, shopify logo upper left hand corner. Add favicon. Footer, bottom righ
 
 ### Day 17: January 18, 2020 Monday
 
-**Today's Progress** 
+**Today's Progress** Started and finished the React JS crash course through Traversy Media. Created a Task Tracker application with React and a JSON-server. 
+Completed repo: https://github.com/kbnewlon/react-task-tracker
 
-**Thoughts** 
-
-**Successes** 
+**Thoughts** Loved his tutorial. Great pace and very well explained. I'll be looking more into his online learning materials. https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia
 
 
 ### Day 18: January 19, 2020 Tuesday
