@@ -166,12 +166,9 @@ Completed repo: https://github.com/kbnewlon/react-task-tracker
 
 ### Day 18: January 19, 2020 Tuesday
 
-**Today's Progress** 
-
-**Thoughts** 
-
-**Successes** 
-
+**Today's Progress** Started a netflix-clone app with React, Material-UI, Firebase, and TMDB API. Used axios to pull in the data. Began creating components. Tutorial by Clever Programmers. https://youtu.be/XtMThy8QKqU
+<br> My Repo: https://github.com/kbnewlon/netflix-clone
+<br> I start one of my TA postions today with UW. 
 
 ### Day 19: January 20, 2020 Wednesday 
 
