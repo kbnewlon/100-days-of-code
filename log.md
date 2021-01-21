@@ -172,11 +172,10 @@ Completed repo: https://github.com/kbnewlon/react-task-tracker
 
 ### Day 19: January 20, 2020 Wednesday 
 
-**Today's Progress** 
+**Today's Progress** New President today! 
+Completed the Netflix Clone app today. Link to repo: https://github.com/kbnewlon/netflix-clone 
 
-**Thoughts** 
-
-**Successes** 
+**Successes** Learned how to deploy to firebase!
 
 
 ### Day 20: January 21, 2020 Thursday
