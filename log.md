@@ -168,11 +168,12 @@ Completed repo: https://github.com/kbnewlon/react-task-tracker
 
 **Today's Progress** Started a netflix-clone app with React, Material-UI, Firebase, and TMDB API. Used axios to pull in the data. Began creating components. Tutorial by Clever Programmers. https://youtu.be/XtMThy8QKqU
 <br> My Repo: https://github.com/kbnewlon/netflix-clone
-<br> I start one of my TA postions today with UW. 
+<br> I start one of my TA positions today with UW. 
 
 ### Day 19: January 20, 2020 Wednesday 
 
 **Today's Progress** New President today! 
+<br>
 Completed the Netflix Clone app today. Link to repo: https://github.com/kbnewlon/netflix-clone 
 
 **Successes** Learned how to deploy to firebase!
@@ -180,11 +181,14 @@ Completed the Netflix Clone app today. Link to repo: https://github.com/kbnewlon
 
 ### Day 20: January 21, 2020 Thursday
 
-**Today's Progress** 
+**Today's Progress** Started the Google Books Search application with React. 
 
-**Thoughts** 
+**Thoughts** After my week of react tutorials I felt pretty good about starting this app. 
 
-**Successes** 
+**Successes** I started with making it react and setting up the file structure. Then I set up preliminary components, routes, models, and controllers. More tomorrow!
+<br>
+Repo link: https://github.com/kbnewlon/React-Google-Books-Search
+
 
 
 ### Day 21: January 22, 2020 Friday
@@ -195,3 +199,30 @@ Completed the Netflix Clone app today. Link to repo: https://github.com/kbnewlon
 
 **Successes** 
 
+
+
+### Day 22: January 23, 2020 Saturday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes** 
+
+
+### Day 23: January 24, 2020 Sunday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes** 
+
+
+### Day 24: January 25, 2020 Monday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes** 
