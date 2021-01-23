@@ -193,11 +193,8 @@ Repo link: https://github.com/kbnewlon/React-Google-Books-Search
 
 ### Day 21: January 22, 2020 Friday
 
-**Today's Progress** 
+**Today's Progress** Portfolio, updated resume. Add Shopify App and Netflix Clone app. Make links target blank. Push changes. 
 
-**Thoughts** 
-
-**Successes** 
 
 
 
