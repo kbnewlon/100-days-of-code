@@ -212,11 +212,9 @@ Repo link: https://github.com/kbnewlon/React-Google-Books-Search
 
 ### Day 25: January 26, 2020 Tuesday
 
-**Today's Progress** 
+**Today's Progress** Grading challenges. Spent the morning on a flex box nightmare and wrapped up the evening learning more about regexr. Had class tonight. It went really well.. 
 
-**Thoughts** 
-
-**Successes** 
+**Successes** successfully coded the correct way to flex box and showed the student. 
 
 
 ### Day 26: January 27, 2020 Wednesday
