@@ -196,27 +196,66 @@ Repo link: https://github.com/kbnewlon/React-Google-Books-Search
 **Today's Progress** Portfolio, updated resume. Add Shopify App and Netflix Clone app. Make links target blank. Push changes. 
 
 
+### Day 22-23: January 23, 2020 Saturday
 
-
-### Day 22: January 23, 2020 Saturday
-
-**Today's Progress** 
-
-**Thoughts** 
-
-**Successes** 
-
-
-### Day 23: January 24, 2020 Sunday
-
-**Today's Progress** 
-
-**Thoughts** 
-
-**Successes** 
+**Today's Progress** Began grading for the two courses I'm assisting in. Enjoying going over the basics. 
 
 
 ### Day 24: January 25, 2020 Monday
+
+**Today's Progress** Working on my Google Books Search app. Using react-router-dom to display search and saved book pages. It's coming together really nicely. Stay tuned. 
+
+**Thoughts** Really happy I spent last week on react tutorials. It makes this project way less daunting. 
+
+**Successes** Successfully able to display two different pages and pull components to each. 
+
+
+### Day 25: January 26, 2020 Tuesday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes** 
+
+
+### Day 26: January 27, 2020 Wednesday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes** 
+
+
+### Day 27: January 28, 2020 Thursday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes** 
+
+
+### Day 28: January 29, 2020 Friday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes** 
+
+
+### Day 29: January 30, 2020 Saturday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes** 
+
+
+### Day 30: January 31, 2020 Sunday
 
 **Today's Progress** 
 
