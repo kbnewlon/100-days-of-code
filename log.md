@@ -15,7 +15,7 @@
 
 **Quote of the day:** "The brain is like a muscle. When it is in use we feel very good. Understanding is joyous" -Carl Sagan
 
-### Day 1: January 2, 2020 Saturday
+### Day 1: January 2, 2021 Saturday
 
 **Today's Progress** Today went well. Polaris is very well documented. Learning more and keep coding!
 
@@ -24,7 +24,7 @@
 **Successes** Installed dependencies and started psuedo coding how I want this to work and look.
 
 
-### Day 2: January 3, 2020 Sunday
+### Day 2: January 3, 2021 Sunday
 
 **Today's Progress**: Worked for a couple hours today. It's nice getting back into the groove of things. Today I learned more about Polaris and am fighting with my React App to pull in what it needs. Computer froze for two hours. So it goes. 
 
@@ -35,7 +35,7 @@
 **Quote of the day:** "Its kind of fun to do the impossible" -Walt Disney
 
 
-### Day 3: January 4, 2020 Monday
+### Day 3: January 4, 2021 Monday
 
 **Today's Progress** Kept running into a "out of memory" error when I tried running my polaris react app. Added "@babel/core": "^7.7.7" to my devDependencies in my package.json to get around the error. I worked with CSS to begin manipulating the page, a good foundation. I read into what Shopify expects in a challenge like this and I have settled on "Reasons why I want to work at Shopify." My plan is to pull in a API from a Canadian Image source. I'm thinking Shopify will enjoy the humor. 
 
@@ -44,19 +44,19 @@
 **Successes** Today I was successful in debugging the 'out of memory' error. I also began working with css and importing homemade components.  
 
 
-### Day 4: January 5, 2020 Tuesday
+### Day 4: January 5, 2021 Tuesday
 
 **Today's Progress** API work today. Started my API.js. Finding a good API was the hardest past of today. I bet a lot of people will be using the placekitten or puppy APIs. My intention is to do something that sets me apart. I signed up as a developer with unsplash but they want two weeks to review my need for a API key. Onto the next thing. Maybe dogs are where its at. 
 
 **Successes** I was successful in getting my app ready for the unsplash API only to find out that it takes them two weeks to review. So Ill have to switch gears tomorrow with my API.js to work with the damn dog API. 
 
 
-### Day 5: January 6, 2020 Wednesday
+### Day 5: January 6, 2021 Wednesday
 
 **Today's Progress** Took today off. Today Trump supporters stormed the Capitol. Im speechless. 
 
 
-### Day 6: January 7, 2020 Thursday
+### Day 6: January 7, 2021 Thursday
 
 **Today's Progress** Made great strides today. Figured out how to upload an image to cloudinary using react. 
 
@@ -65,7 +65,7 @@
 **Successes** Linked my react app to cloudinary for successful uploading. 
 
 
-### Day 7: January 8, 2020 Friday
+### Day 7: January 8, 2021 Friday
 
 **Today's Progress** Banging my head against my computer today. Spent three hours trying to figure out how to map through all my cloudinary images uploaded through my app. I cant figure it out!
 
@@ -75,7 +75,7 @@
 
 
 
-### Day 8: January 9, 2020 Saturday
+### Day 8: January 9, 2021 Saturday
 
 **Today's Progress** Began everything from scratch. Apparently I need to access a database in order to pull the images from cloudinary. Again, not happy about that documentation. Spent most of today trying to incorporate a webpack. Very unsuccessful I might add. 
 
@@ -84,20 +84,20 @@
 **Successes** Successfully recognized that I have no idea what Im doing and am super frustrated. 
 
 
-### Day 9: January 10, 2020 Sunday
+### Day 9: January 10, 2021 Sunday
 
 **Today's Progress** I BROKE IT! Spent the day trouble shooting what the issue is. I still dont know. 
 
 **Thoughts** Banging my head against the table. I dont know what to do. 
 
 
-### Day 10: January 11, 2020 Monday
+### Day 10: January 11, 2021 Monday
 
 **Today's Progress** Ive deleted the package-lock and node modules twice today. It takes my computer over 30 minutes to complete this. Im beyond frustrated. Even after deleting and reinstalling it wont run. Error: Cannot find webpack module. EVEN THOUGH I TOLD IT TO DOWNLOAD IN THE DEVDEPENDENCIES! 
 
 
 
-### Day 11: January 12, 2020 Tuesday
+### Day 11: January 12, 2021 Tuesday
 
 **Today's Progress** Today I was supposed to attend the Shopify Internship Webinar. But I never got the access code. Great start to my morning. I deleted the package lock and node modules one last time! And now its running. Couldn't tell ya what was different this time other than my emotional chaos today. 
 
@@ -108,19 +108,19 @@
 8 hours later. I fixed it! App is up and running. Styling tomorrow and lets be done already!
 
 
-### Day 12: January 13, 2020 Wednesday
+### Day 12: January 13, 2021 Wednesday
 
 **Today's Progress** Started using CSS to manipulate the page. This is always the hardest part for me. I don't know what kinds of things look good, I dont really have an eye for it. So here goes nothing. 
 
 **Thoughts** I hate CSS
 
 
-### Day 13: January 14, 2020 Thursday
+### Day 13: January 14, 2021 Thursday
 
 **Today's Progress** ER today. Took the day off due to memory loss. 
 
 
-### Day 14: January 15, 2020 Friday
+### Day 14: January 15, 2021 Friday
 
 **Today's Progress** Added polaris components today. Page, TopBar, FooterHelp, and Link. 
 
@@ -128,7 +128,7 @@
 
 
 
-### Day 15: January 16, 2020 Saturday
+### Day 15: January 16, 2021 Saturday
 
 **Today's Progress** Deployed to github. I had forgotten that github cant display outside the root folder. Need to deploy via heroku. Running into issues with deploying to heroku. "Invalid: lock file's react-scripts@4.0.1 does not satisfy react-scripts@0.9.5" Downloading react-scripts@0.9.5 into dependencies to see if that will fix it. <--DONT DO THAT, BROKE IT! I reset the HEAD and am trying to figure out what Heroku needs. Deleted package-lock and reinstalled dependencies to get the app to run again. Still not having luck deploying. I added the mars/create and nodejs buildpacks, deleted the package-lock and reinstalled only to find that the steps I took earlier dug me deeper in a hole. I removed the react-scripts@0.9.5 and reinstalled everything and got it to run again. 
 
@@ -145,18 +145,18 @@ I found a stackoverflow that said to take out the http all together and just use
 **Successes** Figured out why my axios wasn't returning data, fixed the error. Deployed to heroku. Began using css on what the axios request is rendering. Very successful day debugging and correcting errors. 
 
 
-### Day 16: January 17, 2020 Sunday
+### Day 16: January 17, 2021 Sunday
 
 **Today's Progress** SHOPIFY APPLICATION DUE
 Things to look at: when the widget is opened you have to upload an image. You cant click the 'X' to close it. It is looking for a response. 
 
 Done, deployed. https://shopify-internship-challenge.herokuapp.com/
-**Thoughts** Add comments, Add logo and quirky repo name. Decided on "2020 It Wasn't All Bad"
+**Thoughts** Add comments, Add logo and quirky repo name. Decided on "2021 It Wasn't All Bad"
 
 **Successes** 
 White nav, shopify logo upper left hand corner. Add favicon. Footer, bottom right. 
 
-### Day 17: January 18, 2020 Monday
+### Day 17: January 18, 2021 Monday
 
 **Today's Progress** Started and finished the React JS crash course through Traversy Media. Created a Task Tracker application with React and a JSON-server. 
 Completed repo: https://github.com/kbnewlon/react-task-tracker
@@ -164,13 +164,13 @@ Completed repo: https://github.com/kbnewlon/react-task-tracker
 **Thoughts** Loved his tutorial. Great pace and very well explained. I'll be looking more into his online learning materials. https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia
 
 
-### Day 18: January 19, 2020 Tuesday
+### Day 18: January 19, 2021 Tuesday
 
 **Today's Progress** Started a netflix-clone app with React, Material-UI, Firebase, and TMDB API. Used axios to pull in the data. Began creating components. Tutorial by Clever Programmers. https://youtu.be/XtMThy8QKqU
 <br> My Repo: https://github.com/kbnewlon/netflix-clone
 <br> I start one of my TA positions today with UW. 
 
-### Day 19: January 20, 2020 Wednesday 
+### Day 19: January 20, 2021 Wednesday 
 
 **Today's Progress** New President today! 
 <br>
@@ -179,7 +179,7 @@ Completed the Netflix Clone app today. Link to repo: https://github.com/kbnewlon
 **Successes** Learned how to deploy to firebase!
 
 
-### Day 20: January 21, 2020 Thursday
+### Day 20: January 21, 2021 Thursday
 
 **Today's Progress** Started the Google Books Search application with React. 
 
@@ -191,17 +191,17 @@ Repo link: https://github.com/kbnewlon/React-Google-Books-Search
 
 
 
-### Day 21: January 22, 2020 Friday
+### Day 21: January 22, 2021 Friday
 
 **Today's Progress** Portfolio, updated resume. Add Shopify App and Netflix Clone app. Make links target blank. Push changes. 
 
 
-### Day 22-23: January 23, 2020 Saturday
+### Day 22-23: January 23, 2021 Saturday
 
 **Today's Progress** Began grading for the two courses I'm assisting in. Enjoying going over the basics. 
 
 
-### Day 24: January 25, 2020 Monday
+### Day 24: January 25, 2021 Monday
 
 **Today's Progress** Working on my Google Books Search app. Using react-router-dom to display search and saved book pages. It's coming together really nicely. Stay tuned. 
 
@@ -210,45 +210,71 @@ Repo link: https://github.com/kbnewlon/React-Google-Books-Search
 **Successes** Successfully able to display two different pages and pull components to each. 
 
 
-### Day 25: January 26, 2020 Tuesday
+### Day 25: January 26, 2021 Tuesday
 
 **Today's Progress** Grading challenges. Spent the morning on a flex box nightmare and wrapped up the evening learning more about regexr. Had class tonight. It went really well.. 
 
 **Successes** successfully coded the correct way to flex box and showed the student. 
 
 
-### Day 26: January 27, 2020 Wednesday
+### Day 26: January 27, 2021 Wednesday
 
 **Today's Progress** Successfully connected my Google Books app to mongoDB. Installed concurrently. 10/10 would recommend. Tried getting the react handleInputChange method to work. The documentation on it is VERY rough! Super disappointing. 
 
 
-### Day 27: January 28, 2020 Thursday
+### Day 27: January 28, 2021 Thursday
 
 **Today's Progress** Grading day. Office hours to go over student hw and grading questions. Successfully cloned and graded assignments for 6 students. Im getting the hang of this. Feels good. 
 
 
-### Day 28: January 29, 2020 Friday
+### Day 28: January 29, 2021 Friday
+
+**Today's Progress** Keyboard showed up. Spent the day setting up my mac. Theres definitely a learning curve to this. Spent a good three hours trying to figure out what it needs. This is going to take a while. 
+
+
+### Day 29: January 30, 2021 Saturday
+
+**Today's Progress** Took the day off.
+
+
+### Day 30: January 31, 2021 Sunday
+
+**Today's Progress** Connected the new computer to github with ssh keys. Downloaded office and just about all set! woo. Loving homebrew for mac downloads. Spent the day troubleshooting permissions for the mac to use npm start. 
+
+**Thoughts** Had to delete the node modules a couple of times to get npm start to work. Not sure what the third time did but that worked. 
+
+
+### Day 31: February 1, 2021 Monday
 
 **Today's Progress** 
 
 **Thoughts** 
 
-**Successes** 
+**Successes**
 
 
-### Day 29: January 30, 2020 Saturday
+### Day 32: February 2,2021 Tuesday
 
 **Today's Progress** 
 
 **Thoughts** 
 
-**Successes** 
+**Successes**
 
 
-### Day 30: January 31, 2020 Sunday
+### Day 33: February 3, 2021 Wednesday
 
-**Today's Progress** Connected the new computer to github with ssh keys. Downloaded office and just about all set! woo. 
+**Today's Progress** 
 
 **Thoughts** 
 
-**Successes** 
+**Successes**
+
+
+### Day 34: February 4, 2021 Thursday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
