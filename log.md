@@ -221,13 +221,10 @@ Repo link: https://github.com/kbnewlon/React-Google-Books-Search
 
 **Today's Progress** Successfully connected my Google Books app to mongoDB. Installed concurrently. 10/10 would recommend. Tried getting the react handleInputChange method to work. The documentation on it is VERY rough! Super disappointing. 
 
+
 ### Day 27: January 28, 2020 Thursday
 
-**Today's Progress** 
-
-**Thoughts** 
-
-**Successes** 
+**Today's Progress** Grading day. Office hours to go over student hw and grading questions. Successfully cloned and graded assignments for 6 students. Im getting the hang of this. Feels good. 
 
 
 ### Day 28: January 29, 2020 Friday
