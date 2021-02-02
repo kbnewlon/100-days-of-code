@@ -246,11 +246,10 @@ Repo link: https://github.com/kbnewlon/React-Google-Books-Search
 
 ### Day 31: February 1, 2021 Monday
 
-**Today's Progress** 
+**Today's Progress** Spent 3 hours grading for JavaScript 310B. And only an hour to catch up on grading and reminder emails with HTML & CSS Foundations. Started the 30 day hackerrank challenge today. 
 
-**Thoughts** 
+**Thoughts** Going back to the basics is hard but much needed!
 
-**Successes**
 
 
 ### Day 32: February 2,2021 Tuesday
