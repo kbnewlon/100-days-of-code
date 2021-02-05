@@ -254,6 +254,25 @@ Repo link: https://github.com/kbnewlon/React-Google-Books-Search
 
 ### Day 32: February 2,2021 Tuesday
 
+**Today's Progress** Spent the whole day troubleshooting a Node processing error. Still not fixed. Uninstalled homebrew, node, npm. No dice. Not a successful day. Very frustrating. 
+
+
+### Day 33: February 3, 2021 Wednesday
+
+**Today's Progress** Took the day off. Put my cat down. 
+
+
+### Day 34: February 4, 2021 Thursday
+
+**Today's Progress** Troubleshooting the node error still. Figured out the error and got my Google Books App running again. 
+
+**Thoughts** So apparently homebrew has a broken node package. So I uninstalled node and npm and downloaded them from node.js website. 
+
+**Successes** Successful day. App runs again!
+
+
+### Day 35: February 5, 2021 Friday
+
 **Today's Progress** 
 
 **Thoughts** 
@@ -261,7 +280,25 @@ Repo link: https://github.com/kbnewlon/React-Google-Books-Search
 **Successes**
 
 
-### Day 33: February 3, 2021 Wednesday
+### Day 34: February 4, 2021 Thursday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 34: February 4, 2021 Thursday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 34: February 4, 2021 Thursday
 
 **Today's Progress** 
 
