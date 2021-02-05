@@ -266,7 +266,7 @@ Repo link: https://github.com/kbnewlon/React-Google-Books-Search
 
 **Today's Progress** Troubleshooting the node error still. Figured out the error and got my Google Books App running again. 
 
-**Thoughts** So apparently homebrew has a broken node package. So I uninstalled node and npm and downloaded them from node.js website. 
+**Thoughts** So apparently homebrew has a broken node package. So I uninstalled node and npm and downloaded them from node.js website. Now that my Google Books app will run I'm starting to work on the search bar onChange functionality. 
 
 **Successes** Successful day. App runs again!
 
