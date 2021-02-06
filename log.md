@@ -273,11 +273,11 @@ Repo link: https://github.com/kbnewlon/React-Google-Books-Search
 
 ### Day 35: February 5, 2021 Friday
 
-**Today's Progress** 
+**Today's Progress** Feels good getting back into it after several days of back end computer issues. Worked on my google books app and got it connected to the google books api! Progress!
 
-**Thoughts** 
+**Thoughts** I would like to spend more time learning about state and props. Its confusing stuff. Practice, practice, practice. Still have to figure out how to save to the mongoDB. 
 
-**Successes**
+**Successes** Successfully got state set up for the search bar. Returned data from the api and started adding css to the returned data. Just worked on the search page today. 
 
 
 ### Day 34: February 4, 2021 Thursday
