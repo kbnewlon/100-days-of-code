@@ -291,27 +291,18 @@ Repo link: https://github.com/kbnewlon/React-Google-Books-Search
 
 **Today's Progress** Debugged my google book api issue. I needed to use props to get the route to work. 
 
-**Thoughts** 
-
-**Successes**
+**Thoughts** Getting frustrated with this app. I don't remember it being this difficult in class. 
 
 
 ### Day 38: February 8, 2021 Monday
 
-**Today's Progress** 
+**Today's Progress** Spent the day debugging code for my students. Loops, array, objects, oh my!
 
-**Thoughts** 
-
-**Successes**
 
 
 ### Day 39: February 9, 2021 Tuesday
 
-**Today's Progress** 
-
-**Thoughts** 
-
-**Successes**
+**Today's Progress** Back to the google books app. Changed the schema in the model to the right cluster.schema on mongo atlas. Still unable to connect to the database. 
 
 
 ### Day 39: February 9, 2021 Tuesday
