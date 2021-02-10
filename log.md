@@ -280,7 +280,23 @@ Repo link: https://github.com/kbnewlon/React-Google-Books-Search
 **Successes** Successfully got state set up for the search bar. Returned data from the api and started adding css to the returned data. Just worked on the search page today. 
 
 
-### Day 34: February 4, 2021 Thursday
+### Day 36: February 6, 2021 Saturday
+
+**Today's Progress** Spent the day trying to figure out why my queries were retuning the same 10 results from my good book api. Im not sure why it's responding this way. 
+
+**Thoughts** This app is going very slowly!
+
+
+### Day 37: February 7, 2021 Sunday
+
+**Today's Progress** Debugged my google book api issue. I needed to use props to get the route to work. 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 38: February 8, 2021 Monday
 
 **Today's Progress** 
 
@@ -289,7 +305,7 @@ Repo link: https://github.com/kbnewlon/React-Google-Books-Search
 **Successes**
 
 
-### Day 34: February 4, 2021 Thursday
+### Day 39: February 9, 2021 Tuesday
 
 **Today's Progress** 
 
@@ -298,7 +314,7 @@ Repo link: https://github.com/kbnewlon/React-Google-Books-Search
 **Successes**
 
 
-### Day 34: February 4, 2021 Thursday
+### Day 39: February 9, 2021 Tuesday
 
 **Today's Progress** 
 
@@ -307,7 +323,34 @@ Repo link: https://github.com/kbnewlon/React-Google-Books-Search
 **Successes**
 
 
-### Day 34: February 4, 2021 Thursday
+### Day 39: February 9, 2021 Tuesday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 39: February 9, 2021 Tuesday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 39: February 9, 2021 Tuesday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 39: February 9, 2021 Tuesday
 
 **Today's Progress** 
 
