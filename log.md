@@ -305,18 +305,16 @@ Repo link: https://github.com/kbnewlon/React-Google-Books-Search
 **Today's Progress** Back to the google books app. Changed the schema in the model to the right cluster.schema on mongo atlas. Still unable to connect to the database. 
 
 
-### Day 39: February 9, 2021 Tuesday
+### Day 40: February 10, 2021 Wednesday
 
-**Today's Progress** 
+**Today's Progress** Trying to troubleshoot my connection errors. 
 
-**Thoughts** 
-
-**Successes**
+**Thoughts** I have followed EVERY step online to connect my react app to my mongoDB cluster. WHY ISNT THIS WORKING!?
 
 
-### Day 39: February 9, 2021 Tuesday
+### Day 41: February 9, 2021 Thursday
 
-**Today's Progress** 
+**Today's Progress** Debugging Seans google book proxy error. Im not even sure where the disconnect is. 
 
 **Thoughts** 
 
