@@ -309,28 +309,19 @@ Repo link: https://github.com/kbnewlon/React-Google-Books-Search
 
 **Today's Progress** Trying to troubleshoot my connection errors. 
 
-**Thoughts** I have followed EVERY step online to connect my react app to my mongoDB cluster. WHY ISNT THIS WORKING!?
+**Thoughts** I have followed EVERY step online to connect my react app to my mongoDB cluster. WHY ISNT THIS WORKING!? 
 
 
-### Day 41: February 9, 2021 Thursday
+### Day 41: February 11, 2021 Thursday
 
-**Today's Progress** Debugging Seans google book proxy error. Im not even sure where the disconnect is. 
+**Today's Progress** Debugging Seans google book proxy error. Im not even sure where the disconnect is. Added "proxy": "http://localhost:3001", to muy client package.json file to get my react app to connect to localhost:3001/api/books. Pushed a book to my database using postman and now able to pull the saved book to my saved page. Added a save button to the Search.js page. Began creating a delete function on the Saved.js page for books saved to the database. OnClick function to delete button. Added a library picture to the jumbotron. 
 
-**Thoughts** 
+**Thoughts** When I click delete I receive a webpack error. Not sure what that's about. 
 
-**Successes**
-
-
-### Day 39: February 9, 2021 Tuesday
-
-**Today's Progress** 
-
-**Thoughts** 
-
-**Successes**
+**Successes** Successfully added a book to my database through postman and pulled saved book through my app. 
 
 
-### Day 39: February 9, 2021 Tuesday
+### Day 42: February 12, 2021 Friday
 
 **Today's Progress** 
 
@@ -339,7 +330,97 @@ Repo link: https://github.com/kbnewlon/React-Google-Books-Search
 **Successes**
 
 
-### Day 39: February 9, 2021 Tuesday
+### Day 43: February 13, 2021 Saturday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 44: February 14, 2021 Sunday
+
+**Today's Progress** BOOK CLUB! WEEk 1
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 45: February 15, 2021 Monday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 46: February 16, 2021 Tuesday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 47: February 17, 2021 Wednesday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 48: February 18, 2021 Thursday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 49: February 19, 2021 Friday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 50: February 20, 2021 Saturday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 51: February 21, 2021 Sunday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 52: February 22, 2021 Monday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 53: February 23, 2021 Tuesday
 
 **Today's Progress** 
 
