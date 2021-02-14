@@ -314,7 +314,7 @@ Repo link: https://github.com/kbnewlon/React-Google-Books-Search
 
 ### Day 41: February 11, 2021 Thursday
 
-**Today's Progress** Debugging Seans google book proxy error. Im not even sure where the disconnect is. Added "proxy": "http://localhost:3001", to muy client package.json file to get my react app to connect to localhost:3001/api/books. Pushed a book to my database using postman and now able to pull the saved book to my saved page. Added a save button to the Search.js page. Began creating a delete function on the Saved.js page for books saved to the database. OnClick function to delete button. Added a library picture to the jumbotron. 
+**Today's Progress** Debugging Seans google book proxy error. Im not even sure where the disconnect is. Added "proxy": "http://localhost:3001", to my client package.json file to get my react app to connect to localhost:3001/api/books. Pushed a book to my database using postman and now able to pull the saved book to my saved page. Added a save button to the Search.js page. Began creating a delete function on the Saved.js page for books saved to the database. OnClick function to delete button. Added a library picture to the jumbotron. 
 
 **Thoughts** When I click delete I receive a webpack error. Not sure what that's about. 
 
@@ -323,18 +323,16 @@ Repo link: https://github.com/kbnewlon/React-Google-Books-Search
 
 ### Day 42: February 12, 2021 Friday
 
-**Today's Progress** 
-
-**Thoughts** 
-
-**Successes**
+**Today's Progress** Got a technical interview Wednesday for Revature. They use C# or Java. Guess I have 5 days to learn C#. Spent the day getting my Mac set up for a C# language environment. Visual Studio Community for Mac. Not great documentation since it is a Microsoft language. 
 
 
 ### Day 43: February 13, 2021 Saturday
 
-**Today's Progress** 
+**Today's Progress** Began working through a C#, .NET, and SQL CRUD functionality Jokes App. Im unable to connect to MySQL. Mac seems to be behind the times in this way. Bummer. 
+<br>
+Stared this tutorial: https://www.youtube.com/watch?v=BfEjDD8mWYg&t=1541s
 
-**Thoughts** 
+**Thoughts** Unable to set up a local instance connection with MySQL workbench. 
 
 **Successes**
 
