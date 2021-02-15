@@ -25,5 +25,9 @@ React Google Books Search <br>
 https://github.com/kbnewlon/React-Google-Books-Search
 
 ### 6 
-Jokes Web App 
+Jokes Web App <br>
 https://github.com/kbnewlon/JokesWebApp
+
+### 7
+Console Application <br>
+https://github.com/kbnewlon/Console-App

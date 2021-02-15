@@ -340,10 +340,10 @@ Stared this tutorial: https://www.youtube.com/watch?v=BfEjDD8mWYg&t=1541s
 ### Day 44: February 14, 2021 Sunday
 
 **Today's Progress** BOOK CLUB! WEEk 1
+<br> Started the Free Code Camp tutorial for C#. Created a Console application. 
+<br> https://youtu.be/GhQdlIFylQ8
 
-**Thoughts** 
-
-**Successes**
+**Thoughts** Learning C# with only javascript experience is pretty smooth thus far. 
 
 
 ### Day 45: February 15, 2021 Monday
