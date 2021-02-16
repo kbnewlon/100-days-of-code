@@ -348,11 +348,11 @@ Stared this tutorial: https://www.youtube.com/watch?v=BfEjDD8mWYg&t=1541s
 
 ### Day 45: February 15, 2021 Monday
 
-**Today's Progress** 
+**Today's Progress** Finishing up the console application with freecodecamp. 
 
-**Thoughts** 
+**Thoughts** It got pretty repetetive after awhile. Just made me feel better about my skill set. 
 
-**Successes**
+**Successes** Finished the four and a half hour, freecodecamp course on C# for beginners. 
 
 
 ### Day 46: February 16, 2021 Tuesday
