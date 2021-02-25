@@ -385,11 +385,11 @@ Stared this tutorial: https://www.youtube.com/watch?v=BfEjDD8mWYg&t=1541s
 
 ### Day 50: February 20, 2021 Saturday
 
-**Today's Progress** 
+**Today's Progress** More Big O notation today. 
 
-**Thoughts** 
+**Thoughts** Keep on practicing. The first tutorial is by the author of Cracking The Coding Interview. So that was cool. The second one broke it down a little more. 
 
-**Successes**
+**Successes** Worked through both these tutorials today. https://www.youtube.com/watch?v=v4cd1O4zkGw & https://www.youtube.com/watch?v=D6xkbGLQesk&t=1567s 
 
 
 ### Day 51: February 21, 2021 Sunday
