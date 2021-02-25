@@ -334,7 +334,6 @@ Stared this tutorial: https://www.youtube.com/watch?v=BfEjDD8mWYg&t=1541s
 
 **Thoughts** Unable to set up a local instance connection with MySQL workbench. 
 
-**Successes**
 
 
 ### Day 44: February 14, 2021 Sunday
@@ -357,20 +356,16 @@ Stared this tutorial: https://www.youtube.com/watch?v=BfEjDD8mWYg&t=1541s
 
 ### Day 46: February 16, 2021 Tuesday
 
-**Today's Progress** 
+**Today's Progress** Started the udemy intermediate C# course. Very disappointing. The starter code isn't organized well and the instructor does a poor job of teaching. 
 
-**Thoughts** 
-
-**Successes**
 
 
 ### Day 47: February 17, 2021 Wednesday
 
-**Today's Progress** 
+**Today's Progress** Spent the day grading for JavaScript310b and HTML & CSS Foundations. Running the students code for a blackjack game as well as several other assignments. The students use bitbucket in JS310b. Not a huge fan but im getting the hang of it. 
 
-**Thoughts** 
+**Thoughts** Grading always takes a second to get the hang of every week. But after a couple of the same assignments I'm able to get the ball rolling. 
 
-**Successes**
 
 
 ### Day 48: February 18, 2021 Thursday
