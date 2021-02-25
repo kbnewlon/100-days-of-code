@@ -376,11 +376,11 @@ Stared this tutorial: https://www.youtube.com/watch?v=BfEjDD8mWYg&t=1541s
 
 ### Day 49: February 19, 2021 Friday
 
-**Today's Progress** 
+**Today's Progress** Week 2 of cracking the coding interview. Today I started learning about Big O notation. Its so confusing. I worked through the problems in the book but the biggest help I received in understanding this is from a book club peer who said that 'n represents the number of times you go through the algorithm'. 
 
-**Thoughts** 
+**Thoughts** Big O notation is difficult but I know it'll come with more practice. 
 
-**Successes**
+**Successes** https://github.com/careercup/CtCI-6th-Edition-JavaScript
 
 
 ### Day 50: February 20, 2021 Saturday
