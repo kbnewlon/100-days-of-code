@@ -400,6 +400,12 @@ Stared this tutorial: https://www.youtube.com/watch?v=BfEjDD8mWYg&t=1541s
 
 ### Day 52: February 22, 2021 Monday
 
+**Today's Progress** TAing tonight. Going over prototypes, classes, constructors, and jQuery. 
+
+
+
+### Day 53: February 23, 2021 Tuesday
+
 **Today's Progress** 
 
 **Thoughts** 
@@ -407,7 +413,115 @@ Stared this tutorial: https://www.youtube.com/watch?v=BfEjDD8mWYg&t=1541s
 **Successes**
 
 
-### Day 53: February 23, 2021 Tuesday
+### Day 54: February 24, 2021 Wednesday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 55: February 25, 2021 Thursday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 56: February 26, 2021 Friday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 57: February 27, 2021 Saturday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 58: February 28, 2021 Sunday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 59: March 1, 2021 Monday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 60: March 2, 2021 Tuesday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 61: March 3, 2021 Wednesday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 62: March 4, 2021 Thursday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 63: March 5, 2021 Friday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 64: March 6, 2021 Saturday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 65: March 7, 2021 Sunday
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Successes**
+
+
+### Day 66: March 8, 2021 Monday
 
 **Today's Progress** 
 
