@@ -394,11 +394,8 @@ Stared this tutorial: https://www.youtube.com/watch?v=BfEjDD8mWYg&t=1541s
 
 ### Day 51: February 21, 2021 Sunday
 
-**Today's Progress** 
+**Today's Progress** Caught up on grading for HTML & CSS Foundations today. Set myself up for success this week.  
 
-**Thoughts** 
-
-**Successes**
 
 
 ### Day 52: February 22, 2021 Monday
