@@ -349,7 +349,7 @@ Stared this tutorial: https://www.youtube.com/watch?v=BfEjDD8mWYg&t=1541s
 
 **Today's Progress** Finishing up the console application with freecodecamp. 
 
-**Thoughts** It got pretty repetetive after awhile. Just made me feel better about my skill set. 
+**Thoughts** It got pretty repetitive after awhile. Just made me feel better about my skill set. 
 
 **Successes** Finished the four and a half hour, freecodecamp course on C# for beginners. 
 
@@ -370,11 +370,8 @@ Stared this tutorial: https://www.youtube.com/watch?v=BfEjDD8mWYg&t=1541s
 
 ### Day 48: February 18, 2021 Thursday
 
-**Today's Progress** 
+**Today's Progress**  More grading today for both classes. HTML & CSS Foundations typically has the student turn in the published github page and the repo. I go through and make sure their code is validated using the W3C Markup Validation Service. Today I graded their portfolios. They are pretty creative. Its fun to see how different students handle the same kind of assignment. 
 
-**Thoughts** 
-
-**Successes**
 
 
 ### Day 49: February 19, 2021 Friday
