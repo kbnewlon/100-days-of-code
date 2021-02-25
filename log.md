@@ -406,20 +406,16 @@ Stared this tutorial: https://www.youtube.com/watch?v=BfEjDD8mWYg&t=1541s
 
 ### Day 53: February 23, 2021 Tuesday
 
-**Today's Progress** 
+**Today's Progress** Started grading week 5 of javaScript 310b. This week the students are traversing the DOM and working on building a simple todo list. 
 
-**Thoughts** 
+**Thoughts** Got about five students graded today. 
 
-**Successes**
 
 
 ### Day 54: February 24, 2021 Wednesday
 
-**Today's Progress** 
+**Today's Progress** More grading for week 5 or javaScript 310b. 7 students today. 
 
-**Thoughts** 
-
-**Successes**
 
 
 ### Day 55: February 25, 2021 Thursday
