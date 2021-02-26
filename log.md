@@ -414,17 +414,16 @@ Stared this tutorial: https://www.youtube.com/watch?v=BfEjDD8mWYg&t=1541s
 
 ### Day 54: February 24, 2021 Wednesday
 
-**Today's Progress** More grading for week 5 or javaScript 310b. 7 students today. 
+**Today's Progress** More grading for week 5 or javaScript 310b. 8 students today. 
 
 
 
 ### Day 55: February 25, 2021 Thursday
 
-**Today's Progress** 
+**Today's Progress** Taking it back to basics. Started building a Tetris game using react! 
 
-**Thoughts** 
+**Thoughts** This is fascinating! Building 2D objects to create Tetrominos. How to Build Tetris in React - GameDev Tutorial with React Hookshttps://youtu.be/ZGOaCxX8HIU
 
-**Successes**
 
 
 ### Day 56: February 26, 2021 Friday

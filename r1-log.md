@@ -31,3 +31,7 @@ https://github.com/kbnewlon/JokesWebApp
 ### 7
 Console Application <br>
 https://github.com/kbnewlon/Console-App
+
+### 8 
+Tetris Game<br>
+https://github.com/kbnewlon/Tetris
