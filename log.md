@@ -428,11 +428,9 @@ Stared this tutorial: https://www.youtube.com/watch?v=BfEjDD8mWYg&t=1541s
 
 ### Day 56: February 26, 2021 Friday
 
-**Today's Progress** 
+**Today's Progress** Finsihed the Tetris game. Going to keep working on it and add more functionality. Like music, logo etc
 
-**Thoughts** 
-
-**Successes**
+**Thoughts** This is my first 'game' so Im feeling super pumped about the change of pace. This was fun. 
 
 
 ### Day 57: February 27, 2021 Saturday
