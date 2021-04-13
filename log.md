@@ -438,15 +438,13 @@ Stared this tutorial: https://www.youtube.com/watch?v=BfEjDD8mWYg&t=1541s
 **Today's Progress** I took the month of March off. The job hunt had me pretty burnt out. Any tips!? Now that it's April I figured it was time to jump back on coding bandwagon. Starting a fish tank app today to practice authentication.
 
 
-
-
 ### Day 58: February 28, 2021 Sunday
 
-**Today's Progress** 
+**Today's Progress** Finished creating user, tank, and fish models. Successfully linked to mysql using express and sequelize. Finished the userController, encrypts sensitive data, and checks auth. 
 
-**Thoughts** 
+**Thoughts** Back at it baby!
 
-**Successes**
+**Successes** Used bcrypt and jsonwebtokens to create authentication routes.
 
 
 ### Day 59: March 1, 2021 Monday
