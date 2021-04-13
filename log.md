@@ -428,18 +428,16 @@ Stared this tutorial: https://www.youtube.com/watch?v=BfEjDD8mWYg&t=1541s
 
 ### Day 56: February 26, 2021 Friday
 
-**Today's Progress** Finsihed the Tetris game. Going to keep working on it and add more functionality. Like music, logo etc
+**Today's Progress** Finished the Tetris game. Going to keep working on it and add more functionality. Like music, logo etc
 
 **Thoughts** This is my first 'game' so Im feeling super pumped about the change of pace. This was fun. 
 
 
-### Day 57: February 27, 2021 Saturday
+### Day 57: April 1, 2021 Thursday
 
-**Today's Progress** 
+**Today's Progress** I took the month of March off. The job hunt had me pretty burnt out. Any tips!? Now that it's April I figured it was time to jump back on coding bandwagon. Starting a fish tank app today to practice authentication.
 
-**Thoughts** 
 
-**Successes**
 
 
 ### Day 58: February 28, 2021 Sunday
