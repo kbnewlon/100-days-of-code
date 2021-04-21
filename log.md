@@ -438,7 +438,7 @@ Stared this tutorial: https://www.youtube.com/watch?v=BfEjDD8mWYg&t=1541s
 **Today's Progress** I took the month of March off. The job hunt had me pretty burnt out. Any tips!? Now that it's April I figured it was time to jump back on coding bandwagon. Starting a fish tank app today to practice authentication.
 
 
-### Day 58: February 28, 2021 Sunday
+### Day 58: April 13, 2021 Tuesday
 
 **Today's Progress** Finished creating user, tank, and fish models. Successfully linked to mysql using express and sequelize. Finished the userController, encrypts sensitive data, and checks auth. 
 
@@ -447,13 +447,13 @@ Stared this tutorial: https://www.youtube.com/watch?v=BfEjDD8mWYg&t=1541s
 **Successes** Used bcrypt and jsonwebtokens to create authentication routes.
 
 
-### Day 59: March 1, 2021 Monday
+### Day 59: April 20,2021 Tuesday
 
-**Today's Progress** 
+**Today's Progress** Spent the day grading, then had class from 6-9. After class I starting finishing up the back end of the fish tank app. Had to troubleshoot a couple of things but it is slowly coming together. Started the front end portion of the app and spent about an out trying to figure out why my react app wouldn't push to github, and when it finally did it was on the master branch. Super annoying. Got it squared away finally and now im beginning with a user login portal. 
 
-**Thoughts** 
+**Thoughts** I forget how much I like doing this! Need to drink more coffee to feel motivated. Trying to finish this app by Thursday so Sean and I can start working on his gaslands app. 
 
-**Successes**
+**Successes** So much success today. Graded for two hours and had class for three. Then worked on this app for five hours. Derek Chauvin found guilty of all three charges in the murder of George Floyd TODAY!!!!! Oh and its 4.20 :) 
 
 
 ### Day 60: March 2, 2021 Tuesday
