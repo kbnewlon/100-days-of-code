@@ -453,7 +453,7 @@ Stared this tutorial: https://www.youtube.com/watch?v=BfEjDD8mWYg&t=1541s
 
 **Thoughts** I forget how much I like doing this! Need to drink more coffee to feel motivated. Trying to finish this app by Thursday so Sean and I can start working on his gaslands app. 
 
-**Successes** So much success today. Graded for two hours and had class for three. Then worked on this app for five hours. Derek Chauvin found guilty of all three charges in the murder of George Floyd TODAY!!!!! Oh and its 4.20 :) 
+**Successes** So much success today. Graded for four hours and had class for three. Then worked on this app for five hours. Derek Chauvin found guilty of all three charges in the murder of George Floyd TODAY!!!!! Oh and its 4.20 :) 
 
 
 ### Day 60: March 2, 2021 Tuesday
