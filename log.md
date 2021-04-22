@@ -456,13 +456,9 @@ Stared this tutorial: https://www.youtube.com/watch?v=BfEjDD8mWYg&t=1541s
 **Successes** So much success today. Graded for four hours and had class for three. Then worked on this app for five hours. Derek Chauvin found guilty of all three charges in the murder of George Floyd TODAY!!!!! Oh and its 4.20 :) 
 
 
-### Day 60: March 2, 2021 Tuesday
+### Day 60: April 21, 2021 Wednesday
 
-**Today's Progress** 
-
-**Thoughts** 
-
-**Successes**
+**Today's Progress** Continued working on the front end of the fish-tank-app. Successfully pulled bearer token upon sign in as well as loaded secretProfile, which contains the fish tank names. Learning more about state and hooks today!
 
 
 ### Day 61: March 3, 2021 Wednesday
