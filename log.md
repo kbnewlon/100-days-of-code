@@ -463,11 +463,10 @@ Stared this tutorial: https://www.youtube.com/watch?v=BfEjDD8mWYg&t=1541s
 
 ### Day 61: March 3, 2021 Wednesday
 
-**Today's Progress** 
+**Today's Progress** Started working on the backend app for Gaslands. Wanted to learn more about Google Authentication so I started a Traversy tutorial. Working through a Story Books app using google authentication and login. So far so good. Happy to be trying something new!
+<br>
+https://youtu.be/SBvmnHTQIPY
 
-**Thoughts** 
-
-**Successes**
 
 
 ### Day 62: March 4, 2021 Thursday

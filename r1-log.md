@@ -43,3 +43,13 @@ https://github.com/kbnewlon/Fish-Tank-API
 ### 10 
 Front-End of Fish Tank App<br>
 https://github.com/kbnewlon/Fish-Tank
+
+### 11 
+Gaslands<br>
+https://github.com/insideseanshead/gaslands-api
+
+### 12
+StoryBooks<br>
+https://github.com/kbnewlon/StoryBooks
+
+
