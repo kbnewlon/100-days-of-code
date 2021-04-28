@@ -461,7 +461,7 @@ Stared this tutorial: https://www.youtube.com/watch?v=BfEjDD8mWYg&t=1541s
 **Today's Progress** Continued working on the front end of the fish-tank-app. Successfully pulled bearer token upon sign in as well as loaded secretProfile, which contains the fish tank names. Learning more about state and hooks today!
 
 
-### Day 61: March 3, 2021 Wednesday
+### Day 61: April 22, 2021 Thursday
 
 **Today's Progress** Started working on the backend app for Gaslands. Wanted to learn more about Google Authentication so I started a Traversy tutorial. Working through a Story Books app using google authentication and login. So far so good. Happy to be trying something new!
 <br>
@@ -469,13 +469,11 @@ https://youtu.be/SBvmnHTQIPY
 
 
 
-### Day 62: March 4, 2021 Thursday
+### Day 62: April 26, 2021 Monday
 
-**Today's Progress** 
+**Today's Progress** Finished the StoryBooks app. That was exhausting but I powered through. Love reviewing tutorials and getting into the groove. Practice is paying off. Looking forward to applying google OAuth to the Gaslands app. 
+<br>Link to deployed app:https://kbn-storybooks.herokuapp.com/
 
-**Thoughts** 
-
-**Successes**
 
 
 ### Day 63: March 5, 2021 Friday
