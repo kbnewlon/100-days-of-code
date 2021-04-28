@@ -476,13 +476,12 @@ https://youtu.be/SBvmnHTQIPY
 
 
 
-### Day 63: March 5, 2021 Friday
+### Day 63: April 27, 2021 Tuesday
 
-**Today's Progress** 
+**Today's Progress** Back to the Gaslands app today. Got the model associations set up, express template(root/index.js) and successfully created a db and connected to MySQL. 
+<br> TODO: Connect Sean to the same DB, fix erd, user model-google auth. 
 
-**Thoughts** 
-
-**Successes**
+**Thoughts** Now it's time to see what I've learned!!!
 
 
 ### Day 64: March 6, 2021 Saturday
