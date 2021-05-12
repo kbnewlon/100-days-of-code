@@ -484,13 +484,10 @@ https://youtu.be/SBvmnHTQIPY
 **Thoughts** Now it's time to see what I've learned!!!
 
 
-### Day 64: March 6, 2021 Saturday
+### Day 64: May 4, 2021 Tuesday
 
-**Today's Progress** 
+**Today's Progress** Finished creating the models and associations for the gaslands backend. Starting to figure out how to add google auth and passport for a sign in. It's a lot more difficult than I imagined. I am having trouble finding documentation with MySQL. Go figure. 
 
-**Thoughts** 
-
-**Successes**
 
 
 ### Day 65: March 7, 2021 Sunday
