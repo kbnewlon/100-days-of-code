@@ -490,13 +490,11 @@ https://youtu.be/SBvmnHTQIPY
 
 
 
-### Day 65: March 7, 2021 Sunday
+### Day 65: May 18, 2021 Sunday
 
-**Today's Progress** 
+**Today's Progress** Created a simple journal app using firebase and google authentication. 
 
-**Thoughts** 
-
-**Successes**
+**Successes** https://github.com/kbnewlon/week6-code
 
 
 ### Day 66: March 8, 2021 Monday
